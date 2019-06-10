@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntimeazi",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
